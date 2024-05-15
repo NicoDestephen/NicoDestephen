@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas DESTEPHEN</h1>
 <h3 align="center">A passionate FullStack developer from France</h3>
 
-- 🔭 I’m currently working on [Origins Digital](https://github.com/WildCodeSchool-2023-09/php-paris-p3-originsdigital.git)
+- 🔭 I’m currently working on [Origins Digital](https://github.com/NicoDestephen/Portefolio.git)
 
 - 🌱 I’m currently learning **Symfony, React, PHP, Javascript**
 
