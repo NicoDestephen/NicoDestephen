@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ndestephen@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/nicolas-destephen](www.linkedin.com/in/nicolas-destephen)
+- 📄 Know about my experiences [www.linkedin.com/in/nicolas-destephen](https://www.linkedin.com/in/nicolas-destephen)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
