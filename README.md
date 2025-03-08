@@ -7,7 +7,7 @@
 
 - Portfolio [Portfolio website](https://portefolio.nicolas-destephen.com/)
 
-- 📫 How to reach me **ndestephen@gmail.com**
+- 📫 How to reach me **dev.ndestephen@gmail.com**
 
 - 📄 Know about my experiences [Linkedin profile](https://www.linkedin.com/in/nicolas-destephen)
 
