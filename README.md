@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas DESTEPHEN</h1>
 <h3 align="center">A passionate Freelance FullStack web developer from France</h3>
 
-- 🔭 I’m currently working on [Micro entreprise website](https://github.com/NicoDestephen/Micro-entreprise.git)
+- 🔭 I’m currently working on [Nicolas Destephen Développement](https://github.com/NicoDestephen/Micro-entreprise.git)
 
 - 🌱 I’m currently learning **React**
 
