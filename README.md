@@ -9,8 +9,7 @@
 
 - Come take a look at the services I offer on my freelance business website : [Nicolas Destephen Development](https://nicolas-destephen.com/)
 
--   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="40" height="40"/>
-Check out my portfolio to see some of the work I’ve done : [Portfolio](https://portefolio.nicolas-destephen.com/)
+- 🧑‍💼 Check out my portfolio to see some of the work I’ve done : [Portfolio](https://portefolio.nicolas-destephen.com/)
 
 - 📄 Know about my experiences on my [linkedin profile](www.linkedin.com/in/nicolas-destephen)
 
