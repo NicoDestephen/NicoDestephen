@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to create my own React components library**
 
-- Nicolas Destephen Development [https://nicolas-destephen.com/](https://nicolas-destephen.com/)
+- Come take a look at the services I offer on my freelance business website : [Nicolas Destephen Development](https://nicolas-destephen.com/)
 
 - Portfolio [https://portefolio.nicolas-destephen.com/](https://portefolio.nicolas-destephen.com/)
 
