@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas DESTEPHEN</h1>
+<br>
 <h3 align="center">A passionate Freelance FullStack web developer from France</h3>
+<br>
 
 - 🔭 I’m currently working on [Nicolas Destephen Development](https://nicolas-destephen.com/)
 
@@ -12,9 +14,11 @@
 - 📄 Know about my experiences on my [linkedin profile](www.linkedin.com/in/nicolas-destephen)
 
 - 📫 How to reach me **dev.ndestephen@gmail.com**
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
+
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
