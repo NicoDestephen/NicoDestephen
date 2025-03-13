@@ -9,7 +9,7 @@
 
 - Check out my portfolio to see some of the work I’ve done : [Portfolio](https://portefolio.nicolas-destephen.com/)
 
-- 📄 Know about my experiences [on my linkedin profile](www.linkedin.com/in/nicolas-destephen)
+- 📄 Know about my experiences on my [linkedin profile](www.linkedin.com/in/nicolas-destephen)
 
 - 📫 How to reach me **dev.ndestephen@gmail.com**
 
